@@ -1,0 +1,253 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EKT normalized snapshot catalog v1",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "schema_version",
+      "id",
+      "name",
+      "article",
+      "supplier_article",
+      "name_reference",
+      "brand",
+      "product_type",
+      "category_path",
+      "features",
+      "price",
+      "quantity",
+      "currency",
+      "unit",
+      "source_as_of",
+      "data_mode",
+      "stock_status",
+      "stores",
+      "data_conflicts",
+      "field_evidence",
+      "field_status",
+      "warnings",
+      "source_ids"
+    ],
+    "properties": {
+      "schema_version": {
+        "const": "1.0"
+      },
+      "id": {
+        "type": "integer"
+      },
+      "name": {
+        "type": "string"
+      },
+      "article": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "supplier_article": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "name_reference": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "brand": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "product_type": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "category_path": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "features": {
+        "type": "object",
+        "required": [
+          "current_a",
+          "phase_count",
+          "poles",
+          "breaking_capacity_ka",
+          "voltage_v",
+          "series",
+          "pole_configuration",
+          "phase_options"
+        ],
+        "properties": {
+          "current_a": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "phase_count": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "poles": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "breaking_capacity_ka": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "voltage_v": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "series": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "pole_configuration": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "phase_options": {
+            "type": "array",
+            "items": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "price": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0
+      },
+      "quantity": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0
+      },
+      "currency": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "unit": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "source_as_of": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "data_mode": {
+        "const": "snapshot"
+      },
+      "stock_status": {
+        "enum": [
+          "unknown",
+          "snapshot_positive",
+          "snapshot_zero"
+        ]
+      },
+      "stores": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "id",
+            "name",
+            "quantity",
+            "sellable"
+          ],
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "name": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "quantity": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "sellable": {
+              "type": [
+                "boolean",
+                "null"
+              ]
+            }
+          }
+        }
+      },
+      "data_conflicts": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "field",
+            "values",
+            "observations"
+          ]
+        }
+      },
+      "field_evidence": {
+        "type": "object"
+      },
+      "field_status": {
+        "type": "object"
+      },
+      "warnings": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "source_ids": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "additionalProperties": true
+  }
+}

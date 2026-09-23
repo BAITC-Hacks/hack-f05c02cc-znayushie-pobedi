@@ -1,0 +1,1354 @@
+{
+  "search": {
+    "query": "Legrand 160A",
+    "filters": {
+      "brand": "Legrand",
+      "current_a": 160
+    },
+    "terms": [],
+    "total": 1,
+    "count": 1,
+    "products": [
+      {
+        "schema_version": "1.0",
+        "id": 515288,
+        "name": "027230 АВ DRX250 MT 3ф 160А 25ka Legrand (1)",
+        "article": "200300282_",
+        "supplier_article": null,
+        "name_reference": "027230",
+        "product_type": "circuit_breaker",
+        "product_type_source": "name_rule",
+        "category_path": [
+          "nizkovoltnaya_apparatura",
+          "silovye_avtomaticheskie_vyklyuchateli",
+          "drx250_mt_10_250_a_legrand"
+        ],
+        "category_source": "url_path",
+        "brand": "Legrand",
+        "features": {
+          "series": "DRX250",
+          "current_a": 160,
+          "phase_count": 3,
+          "poles": null,
+          "breaking_capacity_ka": 25,
+          "voltage_v": null,
+          "phase_options": [],
+          "pole_configuration": null
+        },
+        "price": 65920,
+        "currency": null,
+        "quantity": null,
+        "unit": null,
+        "stock_status": "unknown",
+        "stores": [],
+        "source_as_of": null,
+        "data_mode": "snapshot",
+        "description": null,
+        "image": "https://ekt.kz/upload/iblock/a00/hy7g1xnr71tgeqz7m9b0olycroxt6oi2/027230_av_drx250_mt_3f_160a_25ka_legrand_1.jpg",
+        "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/silovye_avtomaticheskie_vyklyuchateli/drx250_mt_10_250_a_legrand/027230_av_drx250_mt_3f_160a_25ka_legrand_1/",
+        "url_api_detail": "https://ekt.kz/api/products/detail?id=515288",
+        "certificates": [],
+        "certificate_status": "not_provided_in_supplied_schema",
+        "related_ids_raw": [],
+        "order_multiple_raw": null,
+        "properties_raw": {},
+        "offers_raw": [],
+        "field_status": {
+          "brand": "source_observed_not_verified",
+          "series": "source_observed_not_verified",
+          "current_a": "source_observed_not_verified",
+          "phase_count": "source_observed_not_verified",
+          "poles": "missing",
+          "breaking_capacity_ka": "source_observed_not_verified",
+          "voltage_v": "missing"
+        },
+        "field_evidence": {
+          "brand": [
+            {
+              "value": "Legrand",
+              "source": "name"
+            }
+          ],
+          "series": [
+            {
+              "value": "DRX250",
+              "source": "name"
+            }
+          ],
+          "phase_count": [
+            {
+              "value": 3,
+              "source": "name"
+            }
+          ],
+          "current_a": [
+            {
+              "value": 160,
+              "source": "name"
+            }
+          ],
+          "breaking_capacity_ka": [
+            {
+              "value": 25,
+              "source": "name"
+            }
+          ]
+        },
+        "data_conflicts": [],
+        "warnings": [
+          "stock_not_provided",
+          "currency_not_provided",
+          "specifications_not_manufacturer_verified"
+        ],
+        "source_ids": [
+          "page_2_attachment.json"
+        ],
+        "match": {
+          "status": "matched_source_fields",
+          "matched_filters": [
+            "brand",
+            "current_a"
+          ],
+          "matched_terms": [],
+          "review_fields": []
+        }
+      }
+    ],
+    "data_mode": "snapshot",
+    "source_as_of": null,
+    "warnings": [
+      "not_live_price_or_stock"
+    ]
+  },
+  "search_with_uncertain": {
+    "query": "Legrand 160A",
+    "filters": {
+      "brand": "Legrand",
+      "current_a": 160
+    },
+    "terms": [],
+    "total": 2,
+    "count": 2,
+    "products": [
+      {
+        "schema_version": "1.0",
+        "id": 515288,
+        "name": "027230 АВ DRX250 MT 3ф 160А 25ka Legrand (1)",
+        "article": "200300282_",
+        "supplier_article": null,
+        "name_reference": "027230",
+        "product_type": "circuit_breaker",
+        "product_type_source": "name_rule",
+        "category_path": [
+          "nizkovoltnaya_apparatura",
+          "silovye_avtomaticheskie_vyklyuchateli",
+          "drx250_mt_10_250_a_legrand"
+        ],
+        "category_source": "url_path",
+        "brand": "Legrand",
+        "features": {
+          "series": "DRX250",
+          "current_a": 160,
+          "phase_count": 3,
+          "poles": null,
+          "breaking_capacity_ka": 25,
+          "voltage_v": null,
+          "phase_options": [],
+          "pole_configuration": null
+        },
+        "price": 65920,
+        "currency": null,
+        "quantity": null,
+        "unit": null,
+        "stock_status": "unknown",
+        "stores": [],
+        "source_as_of": null,
+        "data_mode": "snapshot",
+        "description": null,
+        "image": "https://ekt.kz/upload/iblock/a00/hy7g1xnr71tgeqz7m9b0olycroxt6oi2/027230_av_drx250_mt_3f_160a_25ka_legrand_1.jpg",
+        "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/silovye_avtomaticheskie_vyklyuchateli/drx250_mt_10_250_a_legrand/027230_av_drx250_mt_3f_160a_25ka_legrand_1/",
+        "url_api_detail": "https://ekt.kz/api/products/detail?id=515288",
+        "certificates": [],
+        "certificate_status": "not_provided_in_supplied_schema",
+        "related_ids_raw": [],
+        "order_multiple_raw": null,
+        "properties_raw": {},
+        "offers_raw": [],
+        "field_status": {
+          "brand": "source_observed_not_verified",
+          "series": "source_observed_not_verified",
+          "current_a": "source_observed_not_verified",
+          "phase_count": "source_observed_not_verified",
+          "poles": "missing",
+          "breaking_capacity_ka": "source_observed_not_verified",
+          "voltage_v": "missing"
+        },
+        "field_evidence": {
+          "brand": [
+            {
+              "value": "Legrand",
+              "source": "name"
+            }
+          ],
+          "series": [
+            {
+              "value": "DRX250",
+              "source": "name"
+            }
+          ],
+          "phase_count": [
+            {
+              "value": 3,
+              "source": "name"
+            }
+          ],
+          "current_a": [
+            {
+              "value": 160,
+              "source": "name"
+            }
+          ],
+          "breaking_capacity_ka": [
+            {
+              "value": 25,
+              "source": "name"
+            }
+          ]
+        },
+        "data_conflicts": [],
+        "warnings": [
+          "stock_not_provided",
+          "currency_not_provided",
+          "specifications_not_manufacturer_verified"
+        ],
+        "source_ids": [
+          "page_2_attachment.json"
+        ],
+        "match": {
+          "status": "matched_source_fields",
+          "matched_filters": [
+            "brand",
+            "current_a"
+          ],
+          "matched_terms": [],
+          "review_fields": []
+        }
+      },
+      {
+        "schema_version": "1.0",
+        "id": 515291,
+        "name": "027228 АВ DRX250 MT 3ф 160А 18ka Legrand (1)",
+        "article": "200300285_",
+        "supplier_article": "027228",
+        "name_reference": "027228",
+        "product_type": "circuit_breaker",
+        "product_type_source": "name_rule",
+        "category_path": [
+          "nizkovoltnaya_apparatura",
+          "silovye_avtomaticheskie_vyklyuchateli",
+          "drx250_mt_10_250_a_legrand"
+        ],
+        "category_source": "url_path",
+        "brand": "Legrand",
+        "features": {
+          "series": "DRX250",
+          "current_a": null,
+          "phase_count": 3,
+          "poles": 3,
+          "breaking_capacity_ka": 18,
+          "voltage_v": 400,
+          "phase_options": [],
+          "pole_configuration": null
+        },
+        "price": 64920,
+        "currency": null,
+        "quantity": 23,
+        "unit": null,
+        "stock_status": "snapshot_positive",
+        "stores": [
+          {
+            "id": 2,
+            "name": "Брак MEGALIGHT",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 3,
+            "name": "Шымкент (ул.Байдукова)",
+            "quantity": 2,
+            "sellable": null
+          },
+          {
+            "id": 4,
+            "name": "Маркетинг MEGALIGHT",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 5,
+            "name": "Никонов",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 6,
+            "name": "РЦ MEGALIGHT",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 7,
+            "name": "Талдыкорган",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 8,
+            "name": "Тастак",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 9,
+            "name": "Торговый зал",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 10,
+            "name": "Востановленный продукт",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 11,
+            "name": "перемещение",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 12,
+            "name": "Основной склад",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 13,
+            "name": "Алматы",
+            "quantity": 5,
+            "sellable": null
+          },
+          {
+            "id": 14,
+            "name": "ЩИТОВОЕ",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 15,
+            "name": "РЦ UNIT",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 16,
+            "name": "Образцы Отдел Закупа",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 17,
+            "name": "Витрина ТЗ",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 18,
+            "name": "Усть-Каменогорск",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 19,
+            "name": "Тараз",
+            "quantity": 2,
+            "sellable": null
+          },
+          {
+            "id": 20,
+            "name": "Атырау",
+            "quantity": 3,
+            "sellable": null
+          },
+          {
+            "id": 21,
+            "name": "Караганда",
+            "quantity": 2,
+            "sellable": null
+          },
+          {
+            "id": 22,
+            "name": "Новосибирск",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 23,
+            "name": "Актау",
+            "quantity": 0,
+            "sellable": null
+          },
+          {
+            "id": 24,
+            "name": "Нур-Султан",
+            "quantity": 8,
+            "sellable": null
+          },
+          {
+            "id": 25,
+            "name": "Шымкент (Тассай)",
+            "quantity": 1,
+            "sellable": null
+          }
+        ],
+        "source_as_of": null,
+        "data_mode": "snapshot",
+        "description": "Автоматический выключатель DRX250 MT 3P 160А 18kA (арт. 027228) Legrand – мощное защитное устройство для предотвращения перегрузок и коротких замыканий в электрических сетях.\r\n\r\nОсновные характеристики:\r\n\r\n\tСерия: DRX250 MT\r\n\tКоличество полюсов: 3\r\n\tНоминальный ток: 160А\r\n\tОтключающая способность: 18kA\r\n\tНоминальное напряжение: 400В AC\r\n\tПроизводитель: Legrand\r\n\r\n\r\n\t Этот автоматический выключатель применяется в промышленных, коммерческих и распределительных системах, обеспечивая надежную защиту электрооборудования. Отличается долговечностью, высокой износостойкостью и простотой монтажа.",
+        "image": "https://ekt.kz/upload/iblock/1ca/8mdfx6517jvalt5da1n9865q2fzpj6jp/027228_av_drx250_mt_3f_160a_18ka_legrand_1.jpg",
+        "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/silovye_avtomaticheskie_vyklyuchateli/drx250_mt_10_250_a_legrand/027228_av_drx250_mt_3f_160a_18ka_legrand_1/",
+        "url_api_detail": "https://ekt.kz/api/products/detail?id=515291",
+        "certificates": [],
+        "certificate_status": "not_provided_in_supplied_schema",
+        "related_ids_raw": [
+          "48783",
+          "23466",
+          "28727"
+        ],
+        "order_multiple_raw": "1",
+        "properties_raw": {
+          "BRAND_PRIORITY": "1",
+          "CML2_ARTICLE": "200300285_",
+          "NOVINKA": "Да",
+          "SPETSPREDLOZHENIE": "Нет",
+          "RECOMMEND": [
+            "48783",
+            "23466",
+            "28727"
+          ],
+          "CML2_BAR_CODE": "3414970344526",
+          "CML2_TRAITS": [
+            "Готовая продукция",
+            "Товар",
+            "200300285_",
+            "Да",
+            "Нет",
+            "027228 АВ DRX250 MT 3ф 160А 18ka Legrand (1)",
+            "0,00212",
+            "1,467",
+            "0",
+            "0",
+            "0"
+          ],
+          "CML2_TAXES": "16",
+          "KRATNOST_MIN": "1",
+          "IMYAKARTINKI": "Legrand.jpg",
+          "ARTIKULPOSTAVSHCHIKA": "027228",
+          "OBYEM": "Автоматический выключатель",
+          "KOLICHESTVO_POLYUSOV": "3",
+          "NOMINALNAYA_OTKLYUCHAYUSHCHAYA_SPOSOBNOST": "18кА",
+          "NOMINALNOE_NAPRYAZHENIE": "400В",
+          "NOMINALNYY_TOK": "250 А",
+          "TIP_USTANOVKI": "Винтовое",
+          "TORGOVAYA_MARKA": "Legrand"
+        },
+        "offers_raw": [],
+        "field_status": {
+          "brand": "source_observed_not_verified",
+          "series": "source_observed_not_verified",
+          "current_a": "conflict",
+          "phase_count": "source_observed_not_verified",
+          "poles": "source_observed_not_verified",
+          "breaking_capacity_ka": "source_observed_not_verified",
+          "voltage_v": "source_observed_not_verified"
+        },
+        "field_evidence": {
+          "brand": [
+            {
+              "value": "Legrand",
+              "source": "name"
+            },
+            {
+              "value": "Legrand",
+              "source": "properties.TORGOVAYA_MARKA"
+            }
+          ],
+          "series": [
+            {
+              "value": "DRX250",
+              "source": "name"
+            }
+          ],
+          "phase_count": [
+            {
+              "value": 3,
+              "source": "name"
+            }
+          ],
+          "poles": [
+            {
+              "value": 3,
+              "source": "properties.KOLICHESTVO_POLYUSOV"
+            }
+          ],
+          "current_a": [
+            {
+              "value": 160,
+              "source": "name"
+            },
+            {
+              "value": 160,
+              "source": "description.Номинальный ток"
+            },
+            {
+              "value": 250,
+              "source": "properties.NOMINALNYY_TOK"
+            }
+          ],
+          "breaking_capacity_ka": [
+            {
+              "value": 18,
+              "source": "name"
+            },
+            {
+              "value": 18,
+              "source": "properties.NOMINALNAYA_OTKLYUCHAYUSHCHAYA_SPOSOBNOST"
+            }
+          ],
+          "voltage_v": [
+            {
+              "value": 400,
+              "source": "properties.NOMINALNOE_NAPRYAZHENIE"
+            }
+          ]
+        },
+        "data_conflicts": [
+          {
+            "field": "current_a",
+            "values": [
+              160,
+              250
+            ],
+            "observations": [
+              {
+                "value": 160,
+                "source": "name"
+              },
+              {
+                "value": 160,
+                "source": "description.Номинальный ток"
+              },
+              {
+                "value": 250,
+                "source": "properties.NOMINALNYY_TOK"
+              }
+            ]
+          }
+        ],
+        "warnings": [
+          "conflicting_current_a",
+          "stock_is_snapshot_not_live",
+          "currency_not_provided",
+          "specifications_not_manufacturer_verified"
+        ],
+        "source_ids": [
+          "page_2_attachment.json",
+          "detail_515291_user_message.json"
+        ],
+        "match": {
+          "status": "needs_review",
+          "matched_filters": [
+            "brand",
+            "current_a"
+          ],
+          "matched_terms": [],
+          "review_fields": [
+            "current_a"
+          ]
+        }
+      }
+    ],
+    "data_mode": "snapshot",
+    "source_as_of": null,
+    "warnings": [
+      "not_live_price_or_stock"
+    ]
+  },
+  "structured_filters": {
+    "query": "",
+    "filters": {
+      "brand": "Legrand",
+      "current_a": 125,
+      "phase_count": 3
+    },
+    "terms": [],
+    "total": 2,
+    "count": 2,
+    "products": [
+      {
+        "schema_version": "1.0",
+        "id": 515290,
+        "name": "027100 АВ DRX250 MT 3ф 125А 18ka Legrand (1)",
+        "article": "200300284_",
+        "supplier_article": null,
+        "name_reference": "027100",
+        "product_type": "circuit_breaker",
+        "product_type_source": "name_rule",
+        "category_path": [
+          "nizkovoltnaya_apparatura",
+          "silovye_avtomaticheskie_vyklyuchateli",
+          "drx250_mt_10_250_a_legrand"
+        ],
+        "category_source": "url_path",
+        "brand": "Legrand",
+        "features": {
+          "series": "DRX250",
+          "current_a": 125,
+          "phase_count": 3,
+          "poles": null,
+          "breaking_capacity_ka": 18,
+          "voltage_v": null,
+          "phase_options": [],
+          "pole_configuration": null
+        },
+        "price": 64780,
+        "currency": null,
+        "quantity": null,
+        "unit": null,
+        "stock_status": "unknown",
+        "stores": [],
+        "source_as_of": null,
+        "data_mode": "snapshot",
+        "description": null,
+        "image": "https://ekt.kz/upload/iblock/053/vgn63u873t0vhpsub4zuzd6met8zgb91/027100_av_drx250_mt_3f_125a_18ka_legrand_1.jpg",
+        "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/silovye_avtomaticheskie_vyklyuchateli/drx250_mt_10_250_a_legrand/027100_av_drx250_mt_3f_125a_18ka_legrand_1/",
+        "url_api_detail": "https://ekt.kz/api/products/detail?id=515290",
+        "certificates": [],
+        "certificate_status": "not_provided_in_supplied_schema",
+        "related_ids_raw": [],
+        "order_multiple_raw": null,
+        "properties_raw": {},
+        "offers_raw": [],
+        "field_status": {
+          "brand": "source_observed_not_verified",
+          "series": "source_observed_not_verified",
+          "current_a": "source_observed_not_verified",
+          "phase_count": "source_observed_not_verified",
+          "poles": "missing",
+          "breaking_capacity_ka": "source_observed_not_verified",
+          "voltage_v": "missing"
+        },
+        "field_evidence": {
+          "brand": [
+            {
+              "value": "Legrand",
+              "source": "name"
+            }
+          ],
+          "series": [
+            {
+              "value": "DRX250",
+              "source": "name"
+            }
+          ],
+          "phase_count": [
+            {
+              "value": 3,
+              "source": "name"
+            }
+          ],
+          "current_a": [
+            {
+              "value": 125,
+              "source": "name"
+            }
+          ],
+          "breaking_capacity_ka": [
+            {
+              "value": 18,
+              "source": "name"
+            }
+          ]
+        },
+        "data_conflicts": [],
+        "warnings": [
+          "stock_not_provided",
+          "currency_not_provided",
+          "specifications_not_manufacturer_verified"
+        ],
+        "source_ids": [
+          "page_1_user_message.json"
+        ],
+        "match": {
+          "status": "matched_source_fields",
+          "matched_filters": [
+            "brand",
+            "current_a",
+            "phase_count"
+          ],
+          "matched_terms": [],
+          "review_fields": []
+        }
+      },
+      {
+        "schema_version": "1.0",
+        "id": 515287,
+        "name": "027112 АВ DRX250 MT 3ф 125А 25ka Legrand (1)",
+        "article": "200300281_",
+        "supplier_article": null,
+        "name_reference": "027112",
+        "product_type": "circuit_breaker",
+        "product_type_source": "name_rule",
+        "category_path": [
+          "nizkovoltnaya_apparatura",
+          "silovye_avtomaticheskie_vyklyuchateli",
+          "drx250_mt_10_250_a_legrand"
+        ],
+        "category_source": "url_path",
+        "brand": "Legrand",
+        "features": {
+          "series": "DRX250",
+          "current_a": 125,
+          "phase_count": 3,
+          "poles": null,
+          "breaking_capacity_ka": 25,
+          "voltage_v": null,
+          "phase_options": [],
+          "pole_configuration": null
+        },
+        "price": 65450,
+        "currency": null,
+        "quantity": null,
+        "unit": null,
+        "stock_status": "unknown",
+        "stores": [],
+        "source_as_of": null,
+        "data_mode": "snapshot",
+        "description": null,
+        "image": "https://ekt.kz/upload/iblock/828/jx7tloq0z13y4ipsiqs83wuqry8t7xj3/027112_av_drx250_mt_3f_125a_25ka_legrand_1.jpg",
+        "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/silovye_avtomaticheskie_vyklyuchateli/drx250_mt_10_250_a_legrand/027112_av_drx250_mt_3f_125a_25ka_legrand_1/",
+        "url_api_detail": "https://ekt.kz/api/products/detail?id=515287",
+        "certificates": [],
+        "certificate_status": "not_provided_in_supplied_schema",
+        "related_ids_raw": [],
+        "order_multiple_raw": null,
+        "properties_raw": {},
+        "offers_raw": [],
+        "field_status": {
+          "brand": "source_observed_not_verified",
+          "series": "source_observed_not_verified",
+          "current_a": "source_observed_not_verified",
+          "phase_count": "source_observed_not_verified",
+          "poles": "missing",
+          "breaking_capacity_ka": "source_observed_not_verified",
+          "voltage_v": "missing"
+        },
+        "field_evidence": {
+          "brand": [
+            {
+              "value": "Legrand",
+              "source": "name"
+            }
+          ],
+          "series": [
+            {
+              "value": "DRX250",
+              "source": "name"
+            }
+          ],
+          "phase_count": [
+            {
+              "value": 3,
+              "source": "name"
+            }
+          ],
+          "current_a": [
+            {
+              "value": 125,
+              "source": "name"
+            }
+          ],
+          "breaking_capacity_ka": [
+            {
+              "value": 25,
+              "source": "name"
+            }
+          ]
+        },
+        "data_conflicts": [],
+        "warnings": [
+          "stock_not_provided",
+          "currency_not_provided",
+          "specifications_not_manufacturer_verified"
+        ],
+        "source_ids": [
+          "page_1_user_message.json"
+        ],
+        "match": {
+          "status": "matched_source_fields",
+          "matched_filters": [
+            "brand",
+            "current_a",
+            "phase_count"
+          ],
+          "matched_terms": [],
+          "review_fields": []
+        }
+      }
+    ],
+    "data_mode": "snapshot",
+    "source_as_of": null,
+    "warnings": [
+      "not_live_price_or_stock"
+    ]
+  },
+  "detail_with_conflict": {
+    "schema_version": "1.0",
+    "id": 515291,
+    "name": "027228 АВ DRX250 MT 3ф 160А 18ka Legrand (1)",
+    "article": "200300285_",
+    "supplier_article": "027228",
+    "name_reference": "027228",
+    "product_type": "circuit_breaker",
+    "product_type_source": "name_rule",
+    "category_path": [
+      "nizkovoltnaya_apparatura",
+      "silovye_avtomaticheskie_vyklyuchateli",
+      "drx250_mt_10_250_a_legrand"
+    ],
+    "category_source": "url_path",
+    "brand": "Legrand",
+    "features": {
+      "series": "DRX250",
+      "current_a": null,
+      "phase_count": 3,
+      "poles": 3,
+      "breaking_capacity_ka": 18,
+      "voltage_v": 400,
+      "phase_options": [],
+      "pole_configuration": null
+    },
+    "price": 64920,
+    "currency": null,
+    "quantity": 23,
+    "unit": null,
+    "stock_status": "snapshot_positive",
+    "stores": [
+      {
+        "id": 2,
+        "name": "Брак MEGALIGHT",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 3,
+        "name": "Шымкент (ул.Байдукова)",
+        "quantity": 2,
+        "sellable": null
+      },
+      {
+        "id": 4,
+        "name": "Маркетинг MEGALIGHT",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 5,
+        "name": "Никонов",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 6,
+        "name": "РЦ MEGALIGHT",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 7,
+        "name": "Талдыкорган",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 8,
+        "name": "Тастак",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 9,
+        "name": "Торговый зал",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 10,
+        "name": "Востановленный продукт",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 11,
+        "name": "перемещение",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 12,
+        "name": "Основной склад",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 13,
+        "name": "Алматы",
+        "quantity": 5,
+        "sellable": null
+      },
+      {
+        "id": 14,
+        "name": "ЩИТОВОЕ",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 15,
+        "name": "РЦ UNIT",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 16,
+        "name": "Образцы Отдел Закупа",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 17,
+        "name": "Витрина ТЗ",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 18,
+        "name": "Усть-Каменогорск",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 19,
+        "name": "Тараз",
+        "quantity": 2,
+        "sellable": null
+      },
+      {
+        "id": 20,
+        "name": "Атырау",
+        "quantity": 3,
+        "sellable": null
+      },
+      {
+        "id": 21,
+        "name": "Караганда",
+        "quantity": 2,
+        "sellable": null
+      },
+      {
+        "id": 22,
+        "name": "Новосибирск",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 23,
+        "name": "Актау",
+        "quantity": 0,
+        "sellable": null
+      },
+      {
+        "id": 24,
+        "name": "Нур-Султан",
+        "quantity": 8,
+        "sellable": null
+      },
+      {
+        "id": 25,
+        "name": "Шымкент (Тассай)",
+        "quantity": 1,
+        "sellable": null
+      }
+    ],
+    "source_as_of": null,
+    "data_mode": "snapshot",
+    "description": "Автоматический выключатель DRX250 MT 3P 160А 18kA (арт. 027228) Legrand – мощное защитное устройство для предотвращения перегрузок и коротких замыканий в электрических сетях.\r\n\r\nОсновные характеристики:\r\n\r\n\tСерия: DRX250 MT\r\n\tКоличество полюсов: 3\r\n\tНоминальный ток: 160А\r\n\tОтключающая способность: 18kA\r\n\tНоминальное напряжение: 400В AC\r\n\tПроизводитель: Legrand\r\n\r\n\r\n\t Этот автоматический выключатель применяется в промышленных, коммерческих и распределительных системах, обеспечивая надежную защиту электрооборудования. Отличается долговечностью, высокой износостойкостью и простотой монтажа.",
+    "image": "https://ekt.kz/upload/iblock/1ca/8mdfx6517jvalt5da1n9865q2fzpj6jp/027228_av_drx250_mt_3f_160a_18ka_legrand_1.jpg",
+    "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/silovye_avtomaticheskie_vyklyuchateli/drx250_mt_10_250_a_legrand/027228_av_drx250_mt_3f_160a_18ka_legrand_1/",
+    "url_api_detail": "https://ekt.kz/api/products/detail?id=515291",
+    "certificates": [],
+    "certificate_status": "not_provided_in_supplied_schema",
+    "related_ids_raw": [
+      "48783",
+      "23466",
+      "28727"
+    ],
+    "order_multiple_raw": "1",
+    "properties_raw": {
+      "BRAND_PRIORITY": "1",
+      "CML2_ARTICLE": "200300285_",
+      "NOVINKA": "Да",
+      "SPETSPREDLOZHENIE": "Нет",
+      "RECOMMEND": [
+        "48783",
+        "23466",
+        "28727"
+      ],
+      "CML2_BAR_CODE": "3414970344526",
+      "CML2_TRAITS": [
+        "Готовая продукция",
+        "Товар",
+        "200300285_",
+        "Да",
+        "Нет",
+        "027228 АВ DRX250 MT 3ф 160А 18ka Legrand (1)",
+        "0,00212",
+        "1,467",
+        "0",
+        "0",
+        "0"
+      ],
+      "CML2_TAXES": "16",
+      "KRATNOST_MIN": "1",
+      "IMYAKARTINKI": "Legrand.jpg",
+      "ARTIKULPOSTAVSHCHIKA": "027228",
+      "OBYEM": "Автоматический выключатель",
+      "KOLICHESTVO_POLYUSOV": "3",
+      "NOMINALNAYA_OTKLYUCHAYUSHCHAYA_SPOSOBNOST": "18кА",
+      "NOMINALNOE_NAPRYAZHENIE": "400В",
+      "NOMINALNYY_TOK": "250 А",
+      "TIP_USTANOVKI": "Винтовое",
+      "TORGOVAYA_MARKA": "Legrand"
+    },
+    "offers_raw": [],
+    "field_status": {
+      "brand": "source_observed_not_verified",
+      "series": "source_observed_not_verified",
+      "current_a": "conflict",
+      "phase_count": "source_observed_not_verified",
+      "poles": "source_observed_not_verified",
+      "breaking_capacity_ka": "source_observed_not_verified",
+      "voltage_v": "source_observed_not_verified"
+    },
+    "field_evidence": {
+      "brand": [
+        {
+          "value": "Legrand",
+          "source": "name"
+        },
+        {
+          "value": "Legrand",
+          "source": "properties.TORGOVAYA_MARKA"
+        }
+      ],
+      "series": [
+        {
+          "value": "DRX250",
+          "source": "name"
+        }
+      ],
+      "phase_count": [
+        {
+          "value": 3,
+          "source": "name"
+        }
+      ],
+      "poles": [
+        {
+          "value": 3,
+          "source": "properties.KOLICHESTVO_POLYUSOV"
+        }
+      ],
+      "current_a": [
+        {
+          "value": 160,
+          "source": "name"
+        },
+        {
+          "value": 160,
+          "source": "description.Номинальный ток"
+        },
+        {
+          "value": 250,
+          "source": "properties.NOMINALNYY_TOK"
+        }
+      ],
+      "breaking_capacity_ka": [
+        {
+          "value": 18,
+          "source": "name"
+        },
+        {
+          "value": 18,
+          "source": "properties.NOMINALNAYA_OTKLYUCHAYUSHCHAYA_SPOSOBNOST"
+        }
+      ],
+      "voltage_v": [
+        {
+          "value": 400,
+          "source": "properties.NOMINALNOE_NAPRYAZHENIE"
+        }
+      ]
+    },
+    "data_conflicts": [
+      {
+        "field": "current_a",
+        "values": [
+          160,
+          250
+        ],
+        "observations": [
+          {
+            "value": 160,
+            "source": "name"
+          },
+          {
+            "value": 160,
+            "source": "description.Номинальный ток"
+          },
+          {
+            "value": 250,
+            "source": "properties.NOMINALNYY_TOK"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      "conflicting_current_a",
+      "stock_is_snapshot_not_live",
+      "currency_not_provided",
+      "specifications_not_manufacturer_verified"
+    ],
+    "source_ids": [
+      "page_2_attachment.json",
+      "detail_515291_user_message.json"
+    ]
+  },
+  "snapshot_stock": {
+    "product_id": 515291,
+    "store_id": 13,
+    "requested_quantity": 5,
+    "snapshot_quantity": 5,
+    "enough_in_snapshot": true,
+    "status": "snapshot_sufficient",
+    "unit": null,
+    "source_as_of": null,
+    "data_mode": "snapshot",
+    "currently_available": null,
+    "requires_live_check": true,
+    "cart_authorized": false,
+    "warnings": [
+      "snapshot_not_reservation",
+      "sellable_stock_rules_not_provided"
+    ]
+  },
+  "unknown_stock": {
+    "product_id": 515288,
+    "store_id": null,
+    "requested_quantity": 1,
+    "snapshot_quantity": null,
+    "enough_in_snapshot": null,
+    "status": "unknown",
+    "unit": null,
+    "source_as_of": null,
+    "data_mode": "snapshot",
+    "currently_available": null,
+    "requires_live_check": true,
+    "cart_authorized": false,
+    "warnings": [
+      "snapshot_not_reservation",
+      "sellable_stock_rules_not_provided"
+    ]
+  },
+  "analogs_blocked_conflict": {
+    "product_id": 515291,
+    "candidates": [],
+    "count": 0,
+    "replacement_confirmed": false,
+    "data_mode": "snapshot",
+    "status": "blocked_source_conflict",
+    "issues": [
+      {
+        "field": "current_a",
+        "values": [
+          160,
+          250
+        ],
+        "observations": [
+          {
+            "value": 160,
+            "source": "name"
+          },
+          {
+            "value": 160,
+            "source": "description.Номинальный ток"
+          },
+          {
+            "value": 250,
+            "source": "properties.NOMINALNYY_TOK"
+          }
+        ]
+      }
+    ]
+  },
+  "preliminary_candidates": {
+    "product_id": 515290,
+    "candidates": [
+      {
+        "schema_version": "1.0",
+        "id": 515287,
+        "name": "027112 АВ DRX250 MT 3ф 125А 25ka Legrand (1)",
+        "article": "200300281_",
+        "supplier_article": null,
+        "name_reference": "027112",
+        "product_type": "circuit_breaker",
+        "product_type_source": "name_rule",
+        "category_path": [
+          "nizkovoltnaya_apparatura",
+          "silovye_avtomaticheskie_vyklyuchateli",
+          "drx250_mt_10_250_a_legrand"
+        ],
+        "category_source": "url_path",
+        "brand": "Legrand",
+        "features": {
+          "series": "DRX250",
+          "current_a": 125,
+          "phase_count": 3,
+          "poles": null,
+          "breaking_capacity_ka": 25,
+          "voltage_v": null,
+          "phase_options": [],
+          "pole_configuration": null
+        },
+        "price": 65450,
+        "currency": null,
+        "quantity": null,
+        "unit": null,
+        "stock_status": "unknown",
+        "stores": [],
+        "source_as_of": null,
+        "data_mode": "snapshot",
+        "description": null,
+        "image": "https://ekt.kz/upload/iblock/828/jx7tloq0z13y4ipsiqs83wuqry8t7xj3/027112_av_drx250_mt_3f_125a_25ka_legrand_1.jpg",
+        "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/silovye_avtomaticheskie_vyklyuchateli/drx250_mt_10_250_a_legrand/027112_av_drx250_mt_3f_125a_25ka_legrand_1/",
+        "url_api_detail": "https://ekt.kz/api/products/detail?id=515287",
+        "certificates": [],
+        "certificate_status": "not_provided_in_supplied_schema",
+        "related_ids_raw": [],
+        "order_multiple_raw": null,
+        "properties_raw": {},
+        "offers_raw": [],
+        "field_status": {
+          "brand": "source_observed_not_verified",
+          "series": "source_observed_not_verified",
+          "current_a": "source_observed_not_verified",
+          "phase_count": "source_observed_not_verified",
+          "poles": "missing",
+          "breaking_capacity_ka": "source_observed_not_verified",
+          "voltage_v": "missing"
+        },
+        "field_evidence": {
+          "brand": [
+            {
+              "value": "Legrand",
+              "source": "name"
+            }
+          ],
+          "series": [
+            {
+              "value": "DRX250",
+              "source": "name"
+            }
+          ],
+          "phase_count": [
+            {
+              "value": 3,
+              "source": "name"
+            }
+          ],
+          "current_a": [
+            {
+              "value": 125,
+              "source": "name"
+            }
+          ],
+          "breaking_capacity_ka": [
+            {
+              "value": 25,
+              "source": "name"
+            }
+          ]
+        },
+        "data_conflicts": [],
+        "warnings": [
+          "stock_not_provided",
+          "currency_not_provided",
+          "specifications_not_manufacturer_verified"
+        ],
+        "source_ids": [
+          "page_1_user_message.json"
+        ],
+        "comparison": {
+          "matching_fields": [
+            {
+              "field": "current_a",
+              "value": 125
+            },
+            {
+              "field": "series",
+              "value": "DRX250"
+            },
+            {
+              "field": "phase_count",
+              "value": 3
+            }
+          ],
+          "differences": [
+            {
+              "field": "breaking_capacity_ka",
+              "original": 18,
+              "candidate": 25
+            }
+          ],
+          "missing_checks": [
+            "poles",
+            "voltage_v",
+            "breaking_capacity_reference_conditions",
+            "trip_characteristics",
+            "dimensions_and_connections",
+            "manufacturer_compatibility_confirmation"
+          ],
+          "replacement_confirmed": false,
+          "needs_engineering_review": true,
+          "needs_live_stock_check": true
+        }
+      }
+    ],
+    "count": 1,
+    "replacement_confirmed": false,
+    "data_mode": "snapshot",
+    "total": 1,
+    "status": "candidates_require_review",
+    "issues": [
+      "No percentage is a proof of interchangeability; no cart mutations"
+    ]
+  }
+}

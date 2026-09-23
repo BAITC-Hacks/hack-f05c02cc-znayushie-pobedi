@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Пример встраивания · EKT Ассистент</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;color:#242333;background:#f5f5f8;font:16px/1.6 Arial,sans-serif}header{background:white;border-bottom:1px solid #e0dfe9;padding:22px max(24px,calc((100vw - 1040px)/2));font-weight:bold}main{max-width:1040px;margin:60px auto;padding:0 24px 120px}h1{font-size:clamp(28px,5vw,44px);line-height:1.15;max-width:700px;letter-spacing:-1px}.label{color:#76539b;font-size:13px;font-weight:bold;letter-spacing:.05em}.intro{max-width:680px;color:#666171}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:30px}.card{background:white;border:1px solid #e0dfe9;border-radius:16px;padding:24px}.card b{display:block;font-size:19px}.card p{font-size:14px;color:#666171}.sample{padding:15px 18px;margin-top:28px;background:#fff9ec;border:1px solid #eee0bd;border-radius:10px;font-size:14px}.hint{margin-top:30px;font-size:14px;color:#666171}a{color:#7242b1}@media(max-width:700px){.cards{grid-template-columns:1fr}main{margin-top:35px}.card{padding:18px}} 
+  </style>
+</head>
+<body>
+  <header>Электротовары · пример страницы магазина</header>
+  <main>
+    <div class="label">ПРОВЕРКА ВСТРАИВАНИЯ</div>
+    <h1>Каталожный консультант на существующей странице</h1>
+    <p class="intro">Нажмите «EKT Ассистент» в правом нижнем углу. Чат работает внутри отдельного окна: можно искать товары, разбирать файлы и проверять демо-корзину.</p>
+    <div class="cards">
+      <section class="card"><b>Подбор товара</b><p>Название, артикул, характеристики и наличие — спросите в чате.</p></section>
+      <section class="card"><b>Разбор заявки</b><p>Прикрепите PDF, Excel, Word DOCX или фото со списком товаров.</p></section>
+      <section class="card"><b>Подтверждение</b><p>Перед добавлением в демо-корзину проверьте товар и количество.</p></section>
+    </div>
+    <div class="sample">Это самостоятельная тестовая страница, а не настоящий сайт ekt.kz. Она показывает подключение виджета. Публикация на ekt.kz требует доступа к его сайту.</div>
+    <p class="hint">Виджет использует тот же сервер и каталог, что <a href="/">полная версия прототипа</a>. Данные и ограничения указаны в чате.</p>
+  </main>
+  <script>
+    const widget = document.createElement('script');
+    widget.src = new URL('/embed.js', location.origin).href;
+    widget.dataset.assistantUrl = new URL('/', location.origin).href;
+    document.body.append(widget);
+  </script>
+</body>
+</html>

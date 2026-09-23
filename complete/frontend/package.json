@@ -1,0 +1,7 @@
+{
+  "name": "ekt-integrated-frontend",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test tests/*.test.mjs", "check": "node --check src/app.js && node --test tests/*.test.mjs"}
+}
