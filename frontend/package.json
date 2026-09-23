@@ -1,0 +1,14 @@
+{
+  "name": "ekt-assistant-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/core.test.mjs",
+    "check": "node --check src/app.js && npm run test"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}
